@@ -1,0 +1,54 @@
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\AutomacaoFuncional.dll.config
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\nunit.framework.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\System.ValueTuple.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\WebDriver.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\WebDriver.Support.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\nunit.framework.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\nunit.framework.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\System.ValueTuple.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\WebDriver.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Release\WebDriver.Support.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\obj\Release\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\obj\Release\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\obj\Release\AutomacaoFuncional.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\AutomacaoFuncional.dll.config
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\nunit.framework.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\System.ValueTuple.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\WebDriver.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\WebDriver.Support.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\nunit.framework.pdb
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\nunit.framework.xml
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\System.ValueTuple.xml
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\WebDriver.xml
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\bin\Release\WebDriver.Support.xml
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\obj\Release\AutomacaoFuncional.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\obj\Release\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automac\Automação\Automação\AutomacaoFuncional\obj\Release\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\AutomacaoFuncional.dll.config
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\nunit.framework.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\System.ValueTuple.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\TechTalk.SpecFlow.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\WebDriver.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\WebDriver.Support.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\nunit.framework.pdb
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\nunit.framework.xml
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\System.ValueTuple.xml
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\WebDriver.xml
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\bin\Release\WebDriver.Support.xml
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\obj\Release\AutomacaoFuncional.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\obj\Release\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automação VS\Projetos\Automação\AutomacaoFuncional\obj\Release\AutomacaoFuncional.pdb

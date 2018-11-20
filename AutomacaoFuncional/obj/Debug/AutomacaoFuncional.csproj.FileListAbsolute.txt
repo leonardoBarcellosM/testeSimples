@@ -1,0 +1,76 @@
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll.config
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.pdb
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\nunit.framework.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\System.ValueTuple.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\WebDriver.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\WebDriver.Support.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\nunit.framework.pdb
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\nunit.framework.xml
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\System.ValueTuple.xml
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\WebDriver.xml
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\bin\Debug\WebDriver.Support.xml
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.dll
+C:\Users\RafaelTeixeiraRecalc\Desktop\SABEMI\CSPrime\Prod\AutomacaoFuncional\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.pdb
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll.config
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.pdb
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\nunit.framework.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\System.ValueTuple.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\WebDriver.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\WebDriver.Support.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\nunit.framework.pdb
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\nunit.framework.xml
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\System.ValueTuple.xml
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\WebDriver.xml
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\WebDriver.Support.xml
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.dll
+C:\Users\Rafael Recalcatti\source\repos\Automacao-Funcional\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll.config
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\nunit.framework.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\System.ValueTuple.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\WebDriver.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\WebDriver.Support.dll
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\nunit.framework.pdb
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\nunit.framework.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\System.ValueTuple.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\WebDriver.xml
+C:\Users\Leonardo\Desktop\Automac\Automa\Automacao-Funcional-master\AutomacaoFuncional\bin\Debug\WebDriver.Support.xml
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\AutomacaoFuncional.pdb
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\nunit.framework.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\System.ValueTuple.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\WebDriver.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\WebDriver.Support.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\nunit.framework.pdb
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\nunit.framework.xml
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\System.ValueTuple.xml
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\WebDriver.xml
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\bin\Debug\WebDriver.Support.xml
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.csprojAssemblyReference.cache
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.csproj.CopyComplete
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.dll
+C:\Users\leonardo.barcellos\Desktop\Automação\Projetos\Automação\Automação\AutomacaoFuncional\obj\Debug\AutomacaoFuncional.pdb
